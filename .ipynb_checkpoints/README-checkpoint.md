@@ -47,6 +47,7 @@ I couldn't ascertain any obvious correlation and decided to utilize a partial re
 
 &nbsp;
 I found that the variable with the greatest beta coefficient was the GDP Growth by Annual Percentage. Upon further analysis this variable had the greatest impact on a Large GDP Country.  Because GDP Annual growth is generally single digits, the range for the confidence interval increased in larger numbers in this model.
+
 ![Large GDP Growth Annual Percentage as a Predictor for ATM per 100,000](/img/Large%20GDP%20Growth%20Annual%20Percentage%20as%20a%20Predictor%20for%20ATM%20per%20100,000.png)
 
 # Conlusion
