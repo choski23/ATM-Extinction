@@ -5,13 +5,13 @@ Access to financial services leads to more inclusion in the economy which is gre
 # Data Sources
 I gathered data through World Bank's Open Data on 233 Countries, 6 Regions, with data from 2004-2019.  I focused on the following development indicators as potential variables that could impact ATMs per 100,000:
 &nbsp;
-*GDP
+GDP
 &nbsp;
-*GDP per capita
+GDP per capita
 &nbsp;
-*GDP Growth (annual percentage)
+GDP Growth (annual percentage)
 &nbsp;
-*Mobile subscriptions per 100,000
+Mobile subscriptions per 100,000
 
 
 # Background
@@ -55,7 +55,7 @@ The variable with the greatest beta coefficient was the GDP Growth by Annual Per
 ![Large GDP Growth Annual Percentage as a Predictor for ATM per 100,000](/img/Large%20GDP%20Growth%20Annual%20Percentage%20as%20a%20Predictor%20for%20ATM%20per%20100,000.png)
 
 # Conclusion
-
+GDP Growth Rates can be a demand indicator for ATM services.  Negative GDP growth rates seem to increase ATMs and Positive GDP growth rates decrease decrease ATMs
 
 
 # Next Steps
