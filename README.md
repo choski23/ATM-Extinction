@@ -46,10 +46,12 @@ I couldn't ascertain any obvious correlation and decided to utilize a partial re
 ![Partial Regression Plot to Predict ATM Availability](/img/World%20Correlations%20Scatter%20-%20Partial%20Regression.png)
 
 &nbsp;
-I found that the variable with the greatest beta coefficient was the GDP Growth by Annual Percentage. Upon further analysis this variable had the greatest impact on a Large GDP Country.  Because GDP Annual growth is generally single digits, the range for the confidence interval increased in larger numbers in this model.
+The variable with the greatest beta coefficient was the GDP Growth by Annual Percentage indicating the highest correlation. Upon further analysis this variable had the greatest impact on a Large GDP Country.  Because GDP Annual growth is generally single digits, the range for the confidence interval increases in larger numbers in this model.  If the GDP growth percentage is negative, it could indicate a rise in ATM availability.
 
 ![Large GDP Growth Annual Percentage as a Predictor for ATM per 100,000](/img/Large%20GDP%20Growth%20Annual%20Percentage%20as%20a%20Predictor%20for%20ATM%20per%20100,000.png)
 
-# Conlusion
+# Conclusion
+
+
 
 # Next Steps
