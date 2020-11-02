@@ -4,10 +4,10 @@ Access to financial services leads to more inclusion in the economy which is gre
 
 # Data Sources
 I gathered data through World Bank's Open Data on 233 Countries, 6 Regions, with data from 2004-2019.  I focused on the following development indicators as potential variables that could impact ATMs per 100,000:
-*GDP
-*GDP per capita
-*GDP Growth (annual percentage)
-*Mobile subscriptions per 100,000
+&nbsp;*GDP
+&nbsp;*GDP per capita
+&nbsp;*GDP Growth (annual percentage)
+&nbsp;*Mobile subscriptions per 100,000
 
 
 # Background
@@ -25,7 +25,7 @@ I wanted to see if GDP had any impact on the ATM availability so I broke the dat
 ![ATM by GDP Category](/img/ATM%20per%20100,000%20by%20GDP%20Category%20Scatterplot.png)
 
 ATMs are utilized at the consumer level so I wanted to consider the data by GDP per capita and look at the mean and variance of each subset. The histogram below shows that the larger GDP per capita countries have the largest variance and more ATMs per 100,000
-****insert a chart listing the means and variance****
+
 ![ATM by GDP Per Capita Category](/img/ATM%20per%20100,000%20by%20GDP%20Per%20Capita%20Quantile%20Combined%20Histogram.png)
 
 &nbsp;
