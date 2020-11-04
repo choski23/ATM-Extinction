@@ -4,7 +4,7 @@ Access to financial services leads to more inclusion in the economy which is gre
 
 # Data Sources
 I gathered data through World Bank's Open Data on 233 Countries, 6 Regions, with data from 2004-2019.  I focused on the following development indicators as potential variables that could impact ATMs per 100,000:
-&nbsp;
+
     *  GDP
     *  GDP per capita
     *  GDP Growth (annual percentage)
